@@ -15,7 +15,7 @@ This Python tool leverages the power of large language models [LLaMA-3-8B](https
 - Python 3.8+
 - Tavily API key (free at [app.tavily.com](https://app.tavily.com))
 - NVIDIA GPU with CUDA support (recommended)
-- 16GB+ RAM
+- Minimum 8 GB GPU RAM, 12 GB for optimal performance
 
 ## Installation
 1. Clone the repository:
