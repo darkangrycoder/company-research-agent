@@ -1,7 +1,7 @@
 # Company Research Agent
 
 ## Overview
-This Python tool leverages the power of large language models (LLaMA-3-8B) and Tavily web search API to generate comprehensive company research reports. The agent automatically gathers information from multiple sources, synthesizes the data, and produces a professional Markdown report covering key business aspects of any company.
+This Python tool leverages the power of large language models [LLaMA-3-8B](https://huggingface.co/McGill-NLP/Llama-3-8B-Web) and Tavily web search API to generate comprehensive company research reports. The agent automatically gathers information from multiple sources, synthesizes the data, and produces a professional Markdown report covering key business aspects of any company.
 
 
 ## Key Features
@@ -113,5 +113,6 @@ graph TD
 ---
 
 **Get your Tavily API key:** [app.tavily.com](https://app.tavily.com)  
-**Report Issues:** [GitHub Issues](https://github.com/yourusername/company-research-agent/issues)  
+**Llama 3.8 Web Model**[https://huggingface.co/McGill-NLP/Llama-3-8B-Web](https://huggingface.co/McGill-NLP/Llama-3-8B-Web)
+**Report Issues:** [GitHub Issues](https://github.com/darkangrycoder/company-research-agent/issues)  
 **Contribute:** Fork and submit pull requests
