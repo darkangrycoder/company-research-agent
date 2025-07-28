@@ -1,0 +1,31 @@
+prompt = f"""
+    [INSTRUCTION]
+    {instructions}
+
+    [SEARCH RESULTS]
+    {formatted_results}
+
+    [SUMMARY]
+    """
+
+# Optimized section instructions
+section_instructions = {
+    "Overview": "Provide a 100-word overview of {company_name} including founding date, leadership, and key milestones. Cite sources with URLs and confidence scores (1-5). Complete the entire answer properly, do not add any html element into the answer",
+    "Financials": "Provide a 100-word financial summary of {company_name} including revenue and funding. Cite sources with URLs and confidence scores (1-5).Complete the entire answer properly, do not add any html element into the answer",
+    "Operations": "Describe {company_name}'s operations in 100 words including employee count and locations. Cite sources with URLs and confidence scores (1-5).Complete the entire answer properly, do not add any html element into the answer",
+    "Market": "Analyze {company_name}'s market position in 100 words including competitors. Cite sources with URLs and confidence scores (1-5).Complete the entire answer properly, do not add any html element into the answer",
+    "Digital": "Detail {company_name}'s digital presence in 100 words including social media stats. Cite sources with URLs and confidence scores (1-5).Complete the entire answer properly, do not add any html element into the answer",
+    "Recent News": "Summarize recent news about {company_name} in 100 words. Cite sources with URLs and confidence scores (1-5).Complete the entire answer properly, do not add any html element into the answer",
+    "Employer": "Evaluate {company_name} as an employer in 100 words. Cite sources with URLs and confidence scores (1-5).Complete the entire answer properly, do not add any html element into the answer"
+}
+
+# Optimized prompts for search queries
+query_prompts = {
+    "Overview": "{company_name} founding date CEO headquarters",
+    "Financials": "{company_name} revenue funding financial report",
+    "Operations": "{company_name} employee count locations",
+    "Market": "{company_name} competitors market share",
+    "Digital": "{company_name} social media followers",
+    "Recent News": "{company_name} news last week",
+    "Employer": "{company_name} Glassdoor ratings jobs"
+}
