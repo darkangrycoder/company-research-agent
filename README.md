@@ -110,9 +110,6 @@ graph TD
 - [ ] Automated source credibility scoring
 - [ ] Custom report templates
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ---
 
 **Get your Tavily API key:** [app.tavily.com](https://app.tavily.com)  
