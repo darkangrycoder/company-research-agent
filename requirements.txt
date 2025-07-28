@@ -1,0 +1,16 @@
+# Core Requirements
+transformers
+accelerate
+bitsandbytes
+tavily-python
+beautifulsoup4
+nest-asyncio
+torch  # Requires CUDA 12.4
+
+# Supporting Libraries
+httpx
+tiktoken
+soupsieve
+requests
+numpy
+regex
