@@ -3,7 +3,7 @@
 ## Powered By
 
 <div align="center">
-  <img src="https://ai.meta.com/static/assets/logo-8d0b6b3e2dd0ad9ea9e0b6aa3a0b9e6b.svg" alt="Meta Llama" width="200">
+  <img src="https://arbisoft.com/_next/image?url=https%3A%2F%2Fd1foa0aaimjyw4.cloudfront.net%2FLLAMA_4_e56cbcf279.png&w=1920&q=75" alt="Meta Llama" width="200">
   <img src="https://www.tavily.com/images/logo.png" alt="Tavily AI Search" width="200">
 </div>
 
