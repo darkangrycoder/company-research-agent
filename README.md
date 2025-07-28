@@ -1,5 +1,20 @@
 # Company Research Agent
 
+## Technology Stack
+
+<div align="center">
+  <a href="https://ai.meta.com/llama/" target="_blank">
+    <img src="assets/llama-logo.svg" alt="Meta Llama" width="200" style="margin: 0 20px;">
+  </a>
+  <a href="https://tavily.com/" target="_blank">
+    <img src="assets/tavily-logo.png" alt="Tavily AI Search" width="200" style="margin: 0 20px;">
+  </a>
+</div>
+
+<p align="center">
+  <strong>Llama 3</strong> for advanced text generation • <strong>Tavily</strong> for web intelligence
+</p>
+
 ## Overview
 This Python tool leverages the power of large language models [LLaMA-3-8B](https://huggingface.co/McGill-NLP/Llama-3-8B-Web) and Tavily web search API to generate comprehensive company research reports. The agent automatically gathers information from multiple sources, synthesizes the data, and produces a professional Markdown report covering key business aspects of any company.
 
