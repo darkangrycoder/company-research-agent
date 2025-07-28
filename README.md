@@ -1,14 +1,10 @@
 # Company Research Agent
 
-## Technology Stack
+## Powered By
 
 <div align="center">
-  <a href="https://ai.meta.com/llama/" target="_blank">
-    <img src="assets/llama-logo.svg" alt="Meta Llama" width="200" style="margin: 0 20px;">
-  </a>
-  <a href="https://tavily.com/" target="_blank">
-    <img src="assets/tavily-logo.png" alt="Tavily AI Search" width="200" style="margin: 0 20px;">
-  </a>
+  <img src="https://ai.meta.com/static/assets/logo-8d0b6b3e2dd0ad9ea9e0b6aa3a0b9e6b.svg" alt="Meta Llama" width="200">
+  <img src="https://www.tavily.com/images/logo.png" alt="Tavily AI Search" width="200">
 </div>
 
 <p align="center">
